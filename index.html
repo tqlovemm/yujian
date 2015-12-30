@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>遇见文化传媒</title>
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+<link rel="shortcut icon" href="./images/home/favicon.ico">
+<!-- js -->
+<script src="js/jquery.min.js"></script>
+<!-- //js -->
+<!-- for-mobile-apps -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+
+<!-- start-smoth-scrolling -->
+	<style>
+		.nav1 span{color:#FFAE00 !important;}
+	</style>
+</head>
+	
+<body>
+	<div class="psd">
+	<div class="container">
+<!-- header -->
+	<div class="header">
+			<div class="logo">
+				<a href="index.html"><img src="images/home/logo.png" alt="遇见文化logo" /></a>
+			</div>
+			<div class="logo-right">
+				<span class="menu"><img src="images/home/logo.png" alt="遇见文化logo"/></span>
+				<ul class="nav1">
+					<li class="cap"><a href="index.html" class="act">HOME<span>首页</span></a></li>
+					<li><a href="about.html" class="act1 scroll">ABOUT US<span>我们是谁？</span></a></li>
+					<li><a href="#feature" class="act2 scroll">FEATURES<span>我们能做什么？</span></a></li>
+					<li><a href="blog.html" class="act3">BLOG<span>我们做过什么</span></a></li>
+				<!--	<li><a href="portfolio.html" class="act4">PORTFOLIO<span>OUR WORK</span></a></li>-->
+					<li><a href="contact.html" class="act5">CONTACT US<span>联系我们</span></a></li>
+				</ul>
+			</div>
+			<div class="clearfix"> </div>
+				<!-- script for menu -->
+					<script> 
+						$( "span.menu" ).click(function() {
+						$( "ul.nav1" ).slideToggle( 300, function() {
+						});
+						});
+					</script>
+				<!-- //script for menu -->
+		</div>
+<!-- //header -->
+<!-- banner -->
+	<div class="banner">
+<!-- Slider-starts-Here -->
+				<script src="js/responsiveslides.min.js"></script>
+				 <script>
+				    // You can also use "$(window).load(function() {"
+				    $(function () {
+				      // Slideshow 4
+				      $("#slider3").responsiveSlides({
+				        auto: true,
+				        pager: false,
+				        nav: true,
+				        speed: 500,
+				        namespace: "callbacks",
+				        before: function () {
+				          $('.events').append("<li>before event fired.</li>");
+				        },
+				        after: function () {
+				          $('.events').append("<li>after event fired.</li>");
+				        }
+				      });
+				
+				    });
+				  </script>
+			<!--//End-slider-script -->
+			<div  id="top" class="callbacks_container wow fadeInUp" data-wow-delay="0.5s">
+				<ul class="rslides" id="slider3">
+					<li>
+						<div class="banner1">
+							<div class="banner-info">
+								<h3>全方位<span>服务</span><br><small>FULL SERVICE</small></h3>
+							</div>
+						</div>
+					</li>
+					<li>
+						<div class="banner2">
+							<div class="banner-info">
+								<h3>强有力<span>执行</span><br><small>STRONG EXECUTION</small></h3>
+							</div>
+						</div>
+					</li>
+					<li>
+						<div class="banner3">
+							<div class="banner-info">
+								<h3>多领域<span>经验</span><br><small>MULTIDISCIPLINARY EXPERIENCE</small></h3>
+							</div>
+						</div>
+					</li>
+				</ul>
+			</div>			
+	</div>
+<!-- //banner -->
+<!-- footer -->
+<div class="clearfix"></div>
+
+	<div class="footer">
+		<div class="footer-left">
+			<ul>
+				<li><a href="index.html"><img src="images/home/logo.png" alt=" " height="53"/></a><span> |</span></li>
+				<li><p>The awesome agency. <span>0800 (123) 4567 // Los Angeles 746 PO</span></p></li>
+			</ul>
+		</div>
+		<div class="footer-right">
+			<ul class="list-unstyled list-inline">
+				<li><p>Copyright &copy; 2015.Company name All rights reserved. </p></li>
+				<li><span style="color: white;">友情链接：</span><a href="http://www.tecclub.cn"><img src="images/home/tec.png"></a></li>
+			</ul>
+
+		</div>
+		<div class="clearfix"> </div>
+	</div>
+<!-- //footer -->
+	</div>
+	</div>
+
+</body>
+</html>
