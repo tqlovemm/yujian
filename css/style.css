@@ -55,6 +55,7 @@ padding:0;
 	padding:0;
 	margin:-10px 0 0;
 	}
+.nav1 span{color:#FFAE00 !important;}
 .logo-right ul li{
 	display:inline-block;
 	margin:0 5px;
@@ -64,10 +65,20 @@ padding:0;
 	-o-transition:0.5s all;
 	-ms-transition:0.5s all;
 	}
+.banner{
+	padding: 2em;
+	border-top: 10px solid #E0E0E0;
+	font-style: normal;
+	background: #fff;
+	margin-bottom: 1em;
+	border-bottom: 3px solid #A4A4A3;
+}
+
+
 .logo-right ul li a{
 	font-size:15px;
-	color:#626262;
-	font-weight:400;
+	color:#717176;
+	font-weight:500;
 	font-style:normal;
 	letter-spacing: -1px;
 	text-decoration: none;
@@ -1177,19 +1188,19 @@ ul.social-slide li i.mac{
 .port{
 	padding:2em 2.5em;
 	border-top:10px solid #E0E0E0;
-	font-family: 'Titillium Web', sans-serif;
 	font-style:normal;
 	background:#fff;
 	margin-bottom:1em;
 	border-bottom:3px solid #A4A4A3;
 	}
 .port h3{
-	color:#FFAE00;
+	/*color:#FFAE00;*/
 	font-size:25px;
-	font-weight:600;
+	font-weight:700;
 	margin:0 0 0.5em;
 	text-align:center;
 	letter-spacing:-2px;
+
 	}
 .port p.para{
 	color:#6C6C6C;
@@ -2132,6 +2143,14 @@ ul.social-slide li i.mac{
 }
 @media (max-width: 768px)
 {
+	.banner{
+		padding: 2em .1em;
+		border-top: 10px solid #E0E0E0;
+		font-style: normal;
+		background: #fff;
+		margin-bottom: 1em;
+		border-bottom: 3px solid #A4A4A3;
+	}
 	.portfolio-grids {
 	  min-height: 710px;
 	}
