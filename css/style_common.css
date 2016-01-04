@@ -83,9 +83,10 @@
 }
 @media (max-width: 768px)
 {
-.view {
-  width: 100%;
-}
+    .view {
+      width: 100%;
+        margin: 0;
+    }
 }
 @media (max-width: 640px)
 {
