@@ -144,7 +144,7 @@ padding:0;
 .banner-info{
 	text-align: center;
 	width: 50%;
-	padding-top: 25em;
+	padding-top: 19em;
 	margin: 0 auto;
 	}
 .banner-info h3{
@@ -153,7 +153,6 @@ padding:0;
 	padding: .2em 0;
 	font-weight:300;
 	margin:0;
-	font-family: 'Titillium Web', sans-serif;
 	font-style:normal;
 	background: rgba(255, 255, 255, 0.76);
 	letter-spacing:-3px;
@@ -161,7 +160,7 @@ padding:0;
 	}
 .banner-info h3 span{
 	color:#FFAE00;
-	font-weight:600;
+	font-weight:400;
 	}
 .nav1 li a span{
 	display:block;
