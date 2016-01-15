@@ -144,14 +144,14 @@ padding:0;
 .banner-info{
 	text-align: center;
 	width: 50%;
-	padding-top: 19em;
+	padding-top: 15em;
 	margin: 0 auto;
 	}
 .banner-info h3{
 	color:#626262;
 	font-size: 3em;
-	padding: .2em 0;
-	font-weight:300;
+	padding: 1em 0;
+	font-weight:400;
 	margin:0;
 	font-style:normal;
 	background: rgba(255, 255, 255, 0.76);
