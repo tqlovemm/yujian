@@ -2051,7 +2051,7 @@ ul.social-slide li i.mac{
 	}
 	.buy-now {
 	  width: 17%;
-	  margin-top: 1em;
+	  margin-top: 0em;
 	}
 	.awesome-left {
 	  width: 26%;
@@ -2181,7 +2181,7 @@ ul.social-slide li i.mac{
 		position: relative;
 		text-align:right;
 		margin: 3px 0;
-		color: black;
+		color: gray;
 		}
 	ul.nav1{
 		display:none;
@@ -2189,8 +2189,8 @@ ul.social-slide li i.mac{
 		margin:2.4em .8em 0;
 		}
 	.logo-right {
-	  margin-left: 30em;
-	  margin-top: 2.5em;
+	  margin-left: 29em;
+	  margin-top: 1em;
 	  width: 7%;
 	}
 	.psd {
@@ -2740,7 +2740,7 @@ ul.social-slide li i.mac{
 @media (max-width: 480px)
 {
 	.logo-right {
-	  margin-top: 1em;
+	  margin-top: 0em;
 	}
 	.logo a img {
 		width: 60%;
@@ -3042,7 +3042,7 @@ ul.social-slide li i.mac{
 	  margin: 0 0 0 0.5em;
 	}
 	.logo-right {
-	  margin-top: 1em;
+	  margin-top: 0em;
 	}
 	.callbacks_nav {
 	  height: 35px;
@@ -3474,7 +3474,7 @@ ul.social-slide li i.mac{
 	}
 	.logo-right {
 	  margin-left: 22em;
-	  margin-top: 1em;
+	  margin-top: 0em;
 	}
 	.banner1 {
 	  height: 225px;
@@ -3635,7 +3635,7 @@ ul.social-slide li i.mac{
 	  padding-top: 14em;
 	}
 	.logo-right {
-	  margin-top: 1em;
+	  margin-top: 0em;
 	}
 	.logo-right ul.nav1 li {
 	  padding-left: 6.6em;
