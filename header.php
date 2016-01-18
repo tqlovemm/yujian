@@ -25,7 +25,7 @@
         <!-- header -->
         <div class="header">
             <div class="logo">
-                <a href="index.php" title="遇见文化传媒"> <img src="images/home/logo.png" alt="遇见文化logo" title="遇见文化传媒"/></a>
+                <a href="index.php" title="遇见文化传媒"> <img class="img-responsive center-block" src="images/home/logo.png" alt="遇见文化logo" title="遇见文化传媒"/></a>
             </div>
             <div class="logo-right">
                 <span class="menu">

@@ -2024,7 +2024,7 @@ ul.social-slide li i.mac{
 	  padding: 2em 1.3em;
 	}
 	.logo {
-	  margin:2.5em 0 2.5em 0.5em;
+	  margin:0 0 0 6em;
 	}
 	.banner1 {
 	  height: 580px;
@@ -2499,6 +2499,19 @@ ul.social-slide li i.mac{
 	.banner-bottom-grids {
 	  width: 50%;
 	}
+
+}@media (max-width: 1200px)
+{
+	.logo-right {
+		float: left;
+
+	}
+
+}
+@media (min-width: 768px)
+{
+	.navbar-toggle{display: block !important;}
+
 }
 @media (max-width: 640px)
 {
@@ -2740,7 +2753,7 @@ ul.social-slide li i.mac{
 		width: 100%;
 	}
 	.logo {
-	  margin: 1.5em 0px 1.5em 1em;
+	  margin: 0 0 0 1em;
 	}
 	.banner3,.banner2 {
 	  height: 290px;
@@ -3026,7 +3039,7 @@ ul.social-slide li i.mac{
 	  margin-left: 0.9em;
 	}
 	.logo {
-	  margin: 1.5em 0px 1.5em 0.5em;
+	  margin: 0 0 0 0.5em;
 	}
 	.logo-right {
 	  margin-top: 1em;
@@ -3317,7 +3330,7 @@ ul.social-slide li i.mac{
 	  margin-left: 28em;
 	}
 	.logo {
-	  margin: 1.5em 0 1.5em 0.5em;
+	  margin: 0 0 0 0.5em;
 	}
 	.logo-right {
 		margin-top: 1.3em;
@@ -3387,7 +3400,7 @@ ul.social-slide li i.mac{
 		background: url(../images/14.png) no-repeat 45px 24px;
 	}
 	.logo-right {
-	  margin-left:25em;
+	  margin-left:24em;
 	}
 	ul.nav1 {
 	  margin: 1.2em .8em 0;
@@ -3460,7 +3473,7 @@ ul.social-slide li i.mac{
 	  padding-left: 15.6em;
 	}
 	.logo-right {
-	  margin-left: 23em;
+	  margin-left: 22em;
 	  margin-top: 1em;
 	}
 	.banner1 {
@@ -3707,7 +3720,7 @@ ul.social-slide li i.mac{
 		width: 45%;
 	}
 	.logo {
-	  margin: 0.5em 0 0.5em 0.5em;
+	  margin: 0 0 0 0.5em;
 	}
 	.logo-right {
 	  margin-top: 0.2em;
