@@ -12,7 +12,7 @@ include ('header.php');
 	<div class="port">
         <h1 class="text-center"><span style="color: orange;font-weight: bold;">CASE</span>&nbsp;&nbsp;<span>我们做过什么？</span></h1>
         <h3 class="text-center">只有专注，才有专业 ！</h3>
-        <h3 class="text-center">遇见传媒一直在坚持自己的理念：我们致力于活动策划执行！</h3>
+        <h3 class="text-center">苏州遇见文化传媒有限公司一直在坚持自己的理念：我们致力于活动策划执行！</h3>
         <p class="text-left">遇见传媒成功服务于房产、汽车、银行、服装、IT、通讯、时尚品牌等多个行业的品牌企业，服务范围遍布全国、在各个领域发展了一批相当稳固的客户群体，为不同领域的客户提供最优质的服务。我们与苏州园区世界五百强企业、大型房地产集团、商会、机构等建立长期合作关系，可独立完成各类活动前期策划筹备及后期的制作执行，在业内独树一帜。
         </p>
 		<div class="portfolio-grids">

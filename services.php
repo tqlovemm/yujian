@@ -19,7 +19,7 @@
 		<div class="col-xs-12 col-md-12">
 			<div class="banner-text">
 				<h1><span style="color: orange;font-weight: bold;">SERVICE</span>&nbsp;&nbsp;<span>我们能做什么</span></h1>
-				<h3>遇见传媒，致力于为客户提供专业活动策划执行全方位服务。</h3>
+				<h3>苏州遇见文化传媒有限公司，致力于为客户提供专业活动策划执行全方位服务。</h3>
 				<p>遇见传媒所策划和推出的任何活动——从最初的邀请到现场管理，无一不是在为了客户公司形象的考虑。不论是策划新<br>产品发布会、企业年会、答谢会，还是周年庆典或会议活动，<br>我们一直牢记：成功策划一个令人难忘的活动的关键就是细节。</p>
 			</div>
 			<div class="banner-text">
