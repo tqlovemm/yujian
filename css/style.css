@@ -2740,7 +2740,7 @@ ul.social-slide li i.mac{
 @media (max-width: 480px)
 {
 	.logo-right {
-	  margin-top: 0em;
+	  margin-top: 1em;
 	}
 	.logo a img {
 		width: 60%;
@@ -3042,7 +3042,7 @@ ul.social-slide li i.mac{
 	  margin: 0 0 0 0.5em;
 	}
 	.logo-right {
-	  margin-top: 0em;
+	  margin-top: 1em;
 	}
 	.callbacks_nav {
 	  height: 35px;
@@ -3474,7 +3474,7 @@ ul.social-slide li i.mac{
 	}
 	.logo-right {
 	  margin-left: 22em;
-	  margin-top: 0em;
+	  margin-top: 1em;
 	}
 	.banner1 {
 	  height: 225px;
@@ -3635,7 +3635,7 @@ ul.social-slide li i.mac{
 	  padding-top: 14em;
 	}
 	.logo-right {
-	  margin-top: 0em;
+	  margin-top: 1em;
 	}
 	.logo-right ul.nav1 li {
 	  padding-left: 6.6em;
