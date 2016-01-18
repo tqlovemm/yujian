@@ -2181,6 +2181,7 @@ ul.social-slide li i.mac{
 		position: relative;
 		text-align:right;
 		margin: 3px 0;
+		color: black;
 		}
 	ul.nav1{
 		display:none;
@@ -2188,7 +2189,7 @@ ul.social-slide li i.mac{
 		margin:2.4em .8em 0;
 		}
 	.logo-right {
-	  margin-left: 31.3em;
+	  margin-left: 30em;
 	  margin-top: 2.5em;
 	  width: 7%;
 	}
@@ -3313,7 +3314,7 @@ ul.social-slide li i.mac{
 		width:100%;
 	}
 	.logo-right {
-	  margin-left: 20em;
+	  margin-left: 28em;
 	}
 	.logo {
 	  margin: 1.5em 0 1.5em 0.5em;
@@ -3334,7 +3335,7 @@ ul.social-slide li i.mac{
 @media (max-width: 667px)
 {
 	.logo-right {
-	  margin-left: 18em;
+	  margin-left: 26em;
 	}
 	ul.nav1 {
 	  margin: 1.2em .8em 0;
@@ -3386,7 +3387,7 @@ ul.social-slide li i.mac{
 		background: url(../images/14.png) no-repeat 45px 24px;
 	}
 	.logo-right {
-	  margin-left:25.5em;
+	  margin-left:25em;
 	}
 	ul.nav1 {
 	  margin: 1.2em .8em 0;
@@ -3459,7 +3460,7 @@ ul.social-slide li i.mac{
 	  padding-left: 15.6em;
 	}
 	.logo-right {
-	  margin-left: 10em;
+	  margin-left: 23em;
 	  margin-top: 1em;
 	}
 	.banner1 {
@@ -3475,7 +3476,7 @@ ul.social-slide li i.mac{
 	  margin: 1.4em .8em 0;
 	}
 	.logo-right {
-	  margin-left:10em;
+	  margin-left:19em;
 	}
 	.banner3,.banner2 {
 	  min-height: 160px;
@@ -3487,7 +3488,7 @@ ul.social-slide li i.mac{
 @media (max-width:480px)
 {
 	.logo-right {
-	  margin-left: 18em;
+	  margin-left: 16em;
 	}
 	.toy-fig span {
 	  background: url(../images/8.png) no-repeat 24px 35px;
@@ -3575,7 +3576,7 @@ ul.social-slide li i.mac{
 	  margin: 1em .8em 0;
 	}
 	.logo-right {
-	  margin-left: 10em;
+	  margin-left: 15em;
 	}
 	.banner-info {
 	  padding-top:13.3em;
@@ -3584,7 +3585,7 @@ ul.social-slide li i.mac{
 @media (max-width: 384px)
 {
 	.logo-right {
-	  margin-left:13.7em;
+	  margin-left:12em;
 	}
 	.banner-info {
 	  width: 71%;
@@ -3595,9 +3596,7 @@ ul.social-slide li i.mac{
 }
 @media (max-width: 375px)
 {
-	.logo-right {
-	  margin-left: 10em;
-	}
+
 	.banner-info h3 {
 	  font-size: 1.2em;
 	  letter-spacing: -1px;
@@ -3616,7 +3615,7 @@ ul.social-slide li i.mac{
 	  width:45%;
 	}
 	.logo-right {
-	  margin-left: 6em;
+	  margin-left: 5em;
 	}
 	.banner-info {
 	  width: 77%;
