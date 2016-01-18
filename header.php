@@ -31,7 +31,7 @@
                 <span class="menu">
                    <button type="button" class="navbar-toggle navbar-default icontop" data-toggle="collapse" data-target=".navbar-main-collapse">
 
-                       <i style="font-size: 25px;" class="glyphicon glyphicon-th-list"></i>
+                       <i style="font-size: 20px;" class="glyphicon glyphicon-th-list"></i>
 
                    </button>
                 </span>
