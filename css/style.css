@@ -2929,7 +2929,7 @@ ul.social-slide li i.mac{
 	.leave-comment {
 	  margin: 3em 0 0;
 	}
-	.view.view-ninth:nth-child(3) {
+	/*.view.view-ninth:nth-child(3) {
 		display: none;
 	}
 	.view.view-ninth:nth-child(4) {
@@ -2940,7 +2940,7 @@ ul.social-slide li i.mac{
 	}
 	.view.view-ninth:nth-child(8) {
 		display: none;
-	}
+	}*/
 	.port p.para {
 	  font-size: 13px;
 	  width: 100%;
