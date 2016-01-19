@@ -36,11 +36,11 @@
                    </button>
                 </span>
                 <ul class="nav1">
-                    <li <?php if($_SERVER['PHP_SELF']=='/index.php'){echo ' class="cap" ';}?> title="首页"><a href="index.php" class="act">HOME</a></li>
-                    <li <?php if($_SERVER['PHP_SELF']=='/about.php'){echo ' class="cap" ';}?> title="我们是谁？"><a href="about.php" class="act1">ABOUT US</a></li>
-                    <li <?php if($_SERVER['PHP_SELF']=='/services.php'){echo ' class="cap" ';}?> title="我们能做什么？"><a href="services.php" class="act2">SERVICES</a></li>
-                    <li <?php if($_SERVER['PHP_SELF']=='/case.php'){echo ' class="cap" ';}?> title="我们做过什么"><a href="case.php" class="act3">CASE</a></li>
-                    <li <?php if($_SERVER['PHP_SELF']=='/contact.php'){echo ' class="cap" ';}?> title="联系我们"><a href="contact.php" class="act5">CONTACT US</a></li>
+                    <li <?php if($_SERVER['PHP_SELF']=='/index.php'){echo ' class="cap" ';}?> title="首页"><a href="index.php" class="act hidden-xs hidden-sm">HOME</a><a href="index.php" class="act visible-sm visible-xs">遇见首页</a></li>
+                    <li <?php if($_SERVER['PHP_SELF']=='/about.php'){echo ' class="cap" ';}?> title="我们是谁？"><a href="about.php" class="act1 hidden-xs hidden-sm">ABOUT US</a><a href="about.php" class="act1 visible-sm visible-xs">关于遇见</a></li>
+                    <li <?php if($_SERVER['PHP_SELF']=='/services.php'){echo ' class="cap" ';}?> title="我们能做什么？"><a href="services.php" class="act2 hidden-xs hidden-sm">SERVICES</a><a href="services.php" class="act2 visible-sm visible-xs">遇见服务</a></li>
+                    <li <?php if($_SERVER['PHP_SELF']=='/case.php'){echo ' class="cap" ';}?> title="我们做过什么"><a href="case.php" class="act3 hidden-xs hidden-sm">CASE</a><a href="case.php" class="act3 visible-sm visible-xs">遇见案例</a></li>
+                    <li <?php if($_SERVER['PHP_SELF']=='/contact.php'){echo ' class="cap" ';}?> title="联系我们"><a href="contact.php" class="act5 hidden-xs hidden-sm">CONTACT US</a><a href="contact.php" class="act5 visible-sm visible-xs">联系遇见</a></li>
                 </ul>
             </div>
             <div class="clearfix"> </div>
