@@ -42,7 +42,7 @@
 					<h6>细节彰显品位</h6>
 				</p>
 			</div>
-			<figure><img class="img-responsive" src="images/services/services1.jpg"></figure>
+			<figure><img class="img-responsive" src="images/services/services1.jpg" alt="我们能做什么" title="我们能做什么"></figure>
 
 			<div class="banner-text">
 				<h3>个性创意礼品管家</h3>
@@ -52,7 +52,7 @@
 				<h6>但是，我们善于理解客户会议和客户需求提供个性化创意礼品！</h6>
 				</p>
 			</div>
-			<figure><img class="img-responsive" src="images/services/services2.jpg"></figure>
+			<figure><img class="img-responsive" src="images/services/services2.jpg" alt="个性创意礼品管家" title="个性创意礼品管家"></figure>
 			<div class="banner-text">
 				<h3>容易忽略的会议网站建设</h3>
 				<p>

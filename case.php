@@ -67,7 +67,7 @@ include ('header.php');
                     </div>
                 </div>
                 <div class="view view-ninth">
-                    <img src="images/case/6.jpg" title="遇见文化传媒" alt="遇见文化传媒"/>
+                    <img src="images/case/6.jpg" title="节目表演" alt="节目表演"/>
                     <div class="mask mask-1"></div>
                     <div class="mask mask-2"></div>
                     <div class="content">
@@ -87,7 +87,7 @@ include ('header.php');
                     </div>
                 </div>
                 <div class="view view-ninth">
-                    <img src="images/case/8.jpg" />
+                    <img src="images/case/8.jpg" alt="我们做过什么" title="我们做过什么"/>
                     <div class="mask mask-1"></div>
                     <div class="mask mask-2"></div>
                     <div class="content">
@@ -97,7 +97,7 @@ include ('header.php');
                     </div>
                 </div>
 				 <div class="view view-ninth">
-                    <img src="images/case/9.jpg" />
+                    <img src="images/case/9.jpg" alt="活动策划执行" title="活动策划执行"/>
                     <div class="mask mask-1"></div>
                     <div class="mask mask-2"></div>
                     <div class="content">
