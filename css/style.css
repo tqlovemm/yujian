@@ -2143,7 +2143,7 @@ ul.social-slide li i.mac{
 @media (max-width: 768px)
 {
 	.banner{
-		padding: 2em .1em;
+		padding: 1em .8em;
 		border-top: 10px solid #E0E0E0;
 		font-style: normal;
 		background: #fff;
@@ -3623,7 +3623,7 @@ ul.social-slide li i.mac{
 }
 @media (max-width: 320px)
 {
-	.banner{min-height: auto;clear: both;}
+	.banner{min-height: inherit;clear: both;}
 	.logo {
 	  width:45%;
 	}
