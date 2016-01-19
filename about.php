@@ -25,7 +25,7 @@ include ('header.php');
 <!-- banner -->
 	<div class="banner text-center row" style="margin-right: 0;margin-left: 0;">
 
-			<div class="banner-bg"></div>
+			<div class="banner-bg" title="我们是谁"></div>
 			<div class="banner-text">
 			<h1><span style="color: orange;font-weight: bold;">About us</span>&nbsp;&nbsp;<span style="font-weight: normal;color: #717176">我们是谁</span></h1>
 			<h3>苏州遇见文化传媒有限公司会议团队是中国最具实力的会议服务团队，致力于打造会议策划第一品牌。</h3>
