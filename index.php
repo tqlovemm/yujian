@@ -8,7 +8,7 @@
     .banner-info{display: none;}
     @media (max-width: 768px) {
 
-        .banner{min-height: auto;}
+        .banner{min-height: inherit !important;}
     }
 </style>
 <!-- banner -->
