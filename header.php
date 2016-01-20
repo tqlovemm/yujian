@@ -7,6 +7,8 @@
     <link rel="shortcut icon" href="./images/home/favicon.ico">
     <!-- js -->
     <script src="js/jquery.min.js"></script>
+    <link href="css/lrtk.css" rel="stylesheet" type="text/css" />
+    <script src="js/lrtk.js"></script>
     <!-- //js -->
     <!-- for-mobile-apps -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -17,6 +19,17 @@
 </head>
 
 <body>
+<!--<div style="position: fixed;right: 1%;top:40%;background-color: orangered;width: 90px;height: 250px;" class="hidden-xs hidden-sm">
+
+    <ul class="list-unstyled">
+
+        <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1607962445&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1607962445:53" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
+
+
+    </ul>
+
+</div>-->
+<div id="top"></div>
 <div class="psd">
     <div class="container">
         <!-- header -->
