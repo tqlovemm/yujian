@@ -5,10 +5,12 @@
     <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
     <link rel="shortcut icon" href="./images/home/favicon.ico">
+
     <!-- js -->
     <script src="js/jquery.min.js"></script>
     <link href="css/lrtk.css" rel="stylesheet" type="text/css" />
     <script src="js/lrtk.js"></script>
+
     <!-- //js -->
     <!-- for-mobile-apps -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -20,17 +22,7 @@
 </head>
 
 <body>
-<!--<div style="position: fixed;right: 1%;top:40%;background-color: orangered;width: 90px;height: 250px;" class="hidden-xs hidden-sm">
-
-    <ul class="list-unstyled">
-
-        <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1607962445&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1607962445:53" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
-
-
-    </ul>
-
-</div>-->
-<div id="top" class="hidden-xs hidden-sm"></div>
+<div id="top" class="hidden-sm hidden-xs"></div>
 <div class="psd">
     <div class="container">
         <!-- header -->
@@ -53,6 +45,7 @@
                 </ul>
             </div>
             <div class="clearfix"> </div>
+
             <!-- script for menu -->
             <script>
                 $( "span.menu" ).click(function() {
@@ -63,3 +56,18 @@
             <!-- //script for menu -->
         </div>
         <!-- //header -->
+        <style>
+            .contact-phone{width: 100%;height: 50px;background-color: white;border-radius: 15px;overflow: hidden;;text-align: center;line-height: 50px;margin-bottom: 0;margin-left: 0px;}
+            .contact-phone li{width: 49%;height: 100%;padding: 0;}
+            .contact-phone li:hover{background-color: #F4A819;}
+            .contact-phone li a{padding:10px 40px;text-decoration: none;}
+
+        </style>
+
+        <ul class="list-inline contact-phone visible-sm visible-xs">
+            <li><a href="tel://15851429071">Phone</a></li>
+            <li><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1607962445&site=qq&menu=yes">QQ</a></li>
+        </ul>
+
+
+
