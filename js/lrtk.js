@@ -1,7 +1,7 @@
 /*"<div class=\"btn btn-wx\"><img class=\"pic\" src=\"images/weixin.jpg\" onclick=\"window.location.href=\'http://www.lanrentuku.com\'\"/></div>" +*/
 $(function(){
 	var tophtml="<div id=\"izl_rmenu\" class=\"izl-rmenu\">" +
-		"<div class=\"btn btn-phone\"><div class=\"phone\">051262747413</div></div>" +
+		"<div class=\"btn btn-phone\"><div class=\"phone\">0512-62747413</div></div>" +
 		"<a target='_blank' href=\"http://wpa.qq.com/msgrd?v=3&uin=1607962445&site=qq&menu=yes\" class=\"btn btn-qq\"></a>" +
 		"<div class=\"btn btn-top\"></div>" +
 
