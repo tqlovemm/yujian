@@ -12,6 +12,7 @@
     <!-- //js -->
     <!-- for-mobile-apps -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="format-detection" content="telephone=yes" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="keywords" content="文化传媒 广告公司 活动公司 活动策划 活动执行" />
     <meta name="description" content="遇见传媒，致力于为客户提供专业活动策划执行全方位服务。成功服务于房产、汽车、银行、服装、IT、通讯、时尚品牌等多个行业的品牌企业，服务范围遍布全国。" />
@@ -29,6 +30,7 @@
     </ul>
 
 </div>-->
+<div id="left" style="position: fixed;top:45%;left:5%;">15851429071</div>
 <div id="top"></div>
 <div class="psd">
     <div class="container">
