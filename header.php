@@ -30,8 +30,7 @@
     </ul>
 
 </div>-->
-<div id="left" style="position: fixed;top:45%;left:5%;">15851429071</div>
-<div id="top"></div>
+<div id="top" class="hidden-xs hidden-sm"></div>
 <div class="psd">
     <div class="container">
         <!-- header -->
