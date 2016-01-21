@@ -25,6 +25,11 @@
         .contact-phone li:hover{background-color: #F4A819;}
         .contact-phone li a{padding:15px 40px;text-decoration: none;}
         .contact-phone li a:hover{color: white;}
+        @media (max-width: 768px) {
+
+            .tec-logo{ width: 45px;}
+        }
+
 
     </style>
 </head>

@@ -10,7 +10,7 @@
     <div class="footer-right">
         <ul class="list-unstyled list-inline">
 
-            <li><a href="http://www.yujianchuanmei.cn"><span style="color: white;">苏州遇见文化传媒有限公司旗下项目：&nbsp;&nbsp;&nbsp;&nbsp;</span></a><a href="http://www.tecclub.cn"><img src="images/home/tec link.png"></a></li>
+            <li><a href="http://www.yujianchuanmei.cn"><span style="color: white;">苏州遇见文化传媒有限公司旗下项目：&nbsp;&nbsp;&nbsp;</span></a><a href="http://www.tecclub.cn"><img class="tec-logo" src="images/home/tec link.png"></a></li>
         </ul>
 
     </div>
