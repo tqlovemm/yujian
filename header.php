@@ -96,9 +96,9 @@
 
                    if($(window).height()>480&&$(window).height()<=568){
 
-                       $('.logo-right ul.nav1 li').css('padding-top','15px');
-                       $('.logo-right ul.nav1 li').css('padding-bottom','15px');
-                       $('.logo-right ul li a').css('font-size','35px');
+                       $('.logo-right ul.nav1 li').css('padding-top','13px');
+                       $('.logo-right ul.nav1 li').css('padding-bottom','13px');
+                       $('.logo-right ul li a').css('font-size','34px');
 
                    }
                     if($(window).height()>568&&$(window).height()<=627){
