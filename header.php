@@ -36,8 +36,8 @@
             #mobile_top_banner_sign {
                 display: block;
                 position: absolute;
-                top: 9px;
-                right: 6%;
+                top: 12px;
+                right: 12%;
                 width: 37px;
                 height: 37px;
                 border-radius: 19px;
@@ -72,7 +72,7 @@
                    </button>
                 </span>
                 <ul class="nav1">
-                    <li class="visible-xs visible-sm" style="box-shadow: 0 0 0 2px #c39e12;padding-bottom: 16px;padding-top: 16px;font-size: 18px;font-weight: 600;">遇见文化传媒<div id="mobile_top_banner_sign" class="text-center"><i style="line-height:37px;" class="glyphicon glyphicon-remove"></i></div> </li>
+                    <li class="visible-xs visible-sm" style="box-shadow: 0 0 0 2px #c39e12;padding-bottom: 20px;padding-top: 20px;font-size: 18px;font-weight: 600;">遇见文化传媒<div id="mobile_top_banner_sign" class="text-center"><i style="line-height:37px;" class="glyphicon glyphicon-remove"></i></div> </li>
                     <li <?php if($_SERVER['PHP_SELF']=='/index.php'){echo ' class="cap" ';}?> title="遇见首页"><a href="index.php" class="act hidden-xs hidden-sm">HOME</a><a href="index.php" class=" visible-sm visible-xs">遇见首页</a></li>
                     <li <?php if($_SERVER['PHP_SELF']=='/about.php'){echo ' class="cap" ';}?> title="遇见文化是谁"><a href="about.php" class="act1 hidden-xs hidden-sm">ABOUT US</a><a href="about.php" class=" visible-sm visible-xs">关于遇见</a></li>
                     <li <?php if($_SERVER['PHP_SELF']=='/services.php'){echo ' class="cap" ';}?> title="遇见能做什么"><a href="services.php" class="act2 hidden-xs hidden-sm">SERVICES</a><a href="services.php" class=" visible-sm visible-xs">遇见服务</a></li>

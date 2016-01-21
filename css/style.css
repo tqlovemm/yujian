@@ -33,13 +33,12 @@ padding:0;
 /*-- header --*/
 .header{
 	background:#fff;
-	border-top:10px solid #E7E7E7;
 	border-bottom: 5px solid rgba(98, 98, 98, 0.7);
 	margin-bottom: 1em;
 	}
 .logo{
 	float:left;
-	margin: .5em 0 .5em 6em;
+	margin: 2em 0 .5em 6em;
 	}
 .logo a{
 	display:block;
@@ -2024,7 +2023,7 @@ ul.social-slide li i.mac{
 	  padding: 2em 1.3em;
 	}
 	.logo {
-		margin: .5em 0 .5em 6em;
+		margin: 2em 0 .5em 6em;
 	}
 	.banner1 {
 	  height: 580px;
@@ -2192,7 +2191,7 @@ ul.social-slide li i.mac{
 	  width: 7%;
 	}
 	.psd {
-	  padding: 1em 0em;
+	  padding: 0em 0em;
 	}
 	.logo-right ul li:hover {
 	  background: none;
@@ -2732,7 +2731,7 @@ ul.social-slide li i.mac{
 @media (max-width: 480px)
 {
 	.logo-right {
-	  margin-top: 1em;
+	  margin-top: 0em;
 	}
 	.logo a img {
 		width: 60%;
@@ -2745,7 +2744,7 @@ ul.social-slide li i.mac{
 		width: 100%;
 	}
 	.logo {
-		margin: .5em 0 .5em 1em;
+		margin: 2em 0 .5em 1em;
 	}
 	.banner3,.banner2 {
 	  height: 290px;
@@ -3024,10 +3023,10 @@ ul.social-slide li i.mac{
 	  margin-left: 0.9em;
 	}
 	.logo {
-		margin: .5em 0 .5em 0.5em;
+		margin: 2em 0 .5em 0.5em;
 	}
 	.logo-right {
-	  margin-top: 1em;
+	  margin-top: 0em;
 	}
 	.callbacks_nav {
 	  height: 35px;
@@ -3304,7 +3303,7 @@ ul.social-slide li i.mac{
 	  margin-left: 28em;
 	}
 	.logo {
-		margin: .5em 0 .5em 0.5em;
+		margin: 2em 0 .5em 0.5em;
 	}
 	.logo-right {
 		margin-top: 1.3em;
@@ -3439,7 +3438,7 @@ ul.social-slide li i.mac{
 
 	.logo-right {
 	  margin-left: 22em;
-	  margin-top: .7em;
+	  margin-top: 0em;
 	}
 	.banner1 {
 	  height: 225px;
@@ -3587,7 +3586,7 @@ ul.social-slide li i.mac{
 	  padding-top: 14em;
 	}
 	.logo-right {
-	  margin-top: 1em;
+	  margin-top: 0em;
 	}
 
 	.buy-now {
@@ -3662,27 +3661,5 @@ ul.social-slide li i.mac{
 	.banner2 {
 	  background: url(../images/home/home1.jpg) no-repeat -117px 0px #f5f5f5;
 	  background-size: cover;
-	}
-}
-@media (max-width: 240px)
-{
-	.logo {
-		width: 45%;
-	}
-	.logo {
-		margin: .5em 0 .5em 0.5em;
-	}
-	.logo-right {
-	  margin-top: 0.2em;
-	  margin-left:0;
-	}
-	.banner3,.banner2 {
-	  height: 100px;
-	}
-	.banner1 {
-	  height: 100px;
-	}
-	.logo-right {
-	  margin-left: 5em;
 	}
 }
