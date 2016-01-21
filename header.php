@@ -60,13 +60,14 @@
             .contact-phone{width: 100%;height: 50px;background-color: white;border-radius: 15px;overflow: hidden;;text-align: center;line-height: 50px;margin-bottom: 0;margin-left: 0px;}
             .contact-phone li{width: 49%;height: 100%;padding: 0;}
             .contact-phone li:hover{background-color: #F4A819;}
-            .contact-phone li a{padding:10px 40px;text-decoration: none;}
+            .contact-phone li a{padding:15px 40px;text-decoration: none;}
+            .contact-phone li a:hover{color: white;}
 
         </style>
 
         <ul class="list-inline contact-phone visible-sm visible-xs">
-            <li><a href="tel://15851429071">Phone</a></li>
-            <li><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1607962445&site=qq&menu=yes">QQ</a></li>
+            <li class="pull-left"><a href="tel://051262747413"><i class="glyphicon glyphicon-earphone"></i>   Phone</a></li>
+            <li class="pull-right"><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1607962445&site=qq&menu=yes">QQ</a></li>
         </ul>
 
 
