@@ -2164,14 +2164,13 @@ ul.social-slide li i.mac{
 		margin: 0;
 		width: 100%;
 		padding: 17px 1em;
-		margin-left: 18.6em;
 		}
 	.logo-right ul {
 		position: absolute;
 		padding: 0;
 		margin: 0;
-		left: 2.5%;
-		width: 92%;
+		left: 0;
+		top:0;
 		z-index: 999;
 		}
 	span.menu {
@@ -2185,8 +2184,7 @@ ul.social-slide li i.mac{
 		}
 	ul.nav1{
 		display:none;
-		background:#EFE7D6;
-		margin:2.4em .8em 0;
+		background:#FDD134;
 		}
 	.logo-right {
 	  margin-left: 29em;
@@ -2209,11 +2207,7 @@ ul.social-slide li i.mac{
 	  background: url(../images/1.png) no-repeat 17px 17px;
 	  padding: 1em 1em 1em 3em;
 	}
-	.logo-right ul.nav1 li {
-	  padding: 0;
-	  padding-left: 21.6em;
-	  margin-left:0;
-	}
+
 	.logo-right ul li a.act {
 	  background: url(../images/1.png) no-repeat 17px 17px;
 	  padding: 1em 1em 1em 3em;
@@ -2536,9 +2530,7 @@ ul.social-slide li i.mac{
 	.banner-info {
 		width: 54%;
 	}
-	.logo-right ul.nav1 li {
-		padding-left: 17.6em;
-	}
+
 	.logo-right ul li a.act {
 	  padding: 1em 1em 0.3em 3em;
 	}
@@ -2832,16 +2824,9 @@ ul.social-slide li i.mac{
 	.footer-top {
 	  padding: 2em 1.5em;
 	}
-	.logo-right ul.nav1 li {
-	  padding-left: 11.6em;
-	}
-	.logo-right ul {
-	  left: 2.8%;
-	  width: 90%;
-	}
-	ul.nav1 {
-	  margin: 1em .8em 0;
-	}
+
+
+
 	.blog-left h3 {
 	  font-size: 18px;
 	  letter-spacing: 0px;
@@ -3072,18 +3057,7 @@ ul.social-slide li i.mac{
 	  width: 77%;
 	  padding-top: 9em;
 	}
-	.logo-right ul.nav1 li {
-	  padding-left: 5.6em;
-	}
-	.logo-right ul li a {
-	  font-size: 12px;
-	}
-	.logo-right ul {
-	  width: 87%;
-	}
-	ul.nav1 {
-	  margin: 0.7em .8em 0;
-	}
+
 	.news-bottom ul li {
 	  margin: 0 7px;
 	}
@@ -3341,18 +3315,15 @@ ul.social-slide li i.mac{
 	.banner1 {
 	  height: 210px;
 	}
-	ul.nav1 {
-	  margin: 1.4em .8em 0;
-	}
+
 }
 @media (max-width: 667px)
 {
 	.logo-right {
 	  margin-left: 26em;
 	}
-	ul.nav1 {
-	  margin: 1.2em .8em 0;
-	}
+
+
 	.banner-bottom-grids:nth-child(2) {
 	  display: none;
 	}
@@ -3375,9 +3346,7 @@ ul.social-slide li i.mac{
 	.awesome-right-grid:nth-child(2) {
 	  margin: 1.5em 0;
 	}
-	.logo-right ul.nav1 li {
-		padding-left: 17.6em;
-	}
+
 }
 @media (max-width: 640px)
 {
@@ -3402,12 +3371,9 @@ ul.social-slide li i.mac{
 	.logo-right {
 	  margin-left:24em;
 	}
-	ul.nav1 {
-	  margin: 1.2em .8em 0;
-	}
-	.logo-right ul.nav1 li {
-	  padding-left: 15.6em;
-	}
+
+
+
 	.logo a img {
 		width: 100%;
 	}
@@ -3469,9 +3435,8 @@ ul.social-slide li i.mac{
 }
 @media (max-width: 600px)
 {
-	.logo-right ul.nav1 li {
-	  padding-left: 15.6em;
-	}
+
+
 	.logo-right {
 	  margin-left: 22em;
 	  margin-top: .7em;
@@ -3485,9 +3450,8 @@ ul.social-slide li i.mac{
 }
 @media (max-width: 568px)
 {
-	ul.nav1 {
-	  margin: 1.4em .8em 0;
-	}
+
+
 	.logo-right {
 	  margin-left:19em;
 	}
@@ -3518,15 +3482,10 @@ ul.social-slide li i.mac{
 	.banner-info {
 	  padding-top: 12.3em;
 	}
-	.logo-right ul.nav1 li {
-	  padding-left: 10.6em;
-	}
-	ul.nav1 {
-	  margin: 0.6em .8em 0;
-	}
-	.logo-right ul {
-		left: 2.5%;
-	}
+
+
+
+
 	.um-fig span {
 	  background: url(../images/7.png) no-repeat 29px 37px;
 	}
@@ -3582,12 +3541,9 @@ ul.social-slide li i.mac{
 	.banner-info {
 		width: 67%;
 	}
-	.logo-right ul.nav1 li {
-	  padding-left: 9.6em;
-	}
-	ul.nav1 {
-	  margin: 1em .8em 0;
-	}
+
+
+
 	.logo-right {
 	  margin-left: 15em;
 	}
@@ -3603,9 +3559,7 @@ ul.social-slide li i.mac{
 	.banner-info {
 	  width: 71%;
 	}
-	.logo-right ul.nav1 li {
-	  padding-left: 8.6em;
-	}
+
 }
 @media (max-width: 375px)
 {
@@ -3617,9 +3571,7 @@ ul.social-slide li i.mac{
 	.banner-info {
 	  padding-top: 14.2em;
 	}
-	.logo-right ul.nav1 li {
-	  padding-left: 7.6em;
-	}
+
 }
 @media (max-width: 320px)
 {
@@ -3637,9 +3589,7 @@ ul.social-slide li i.mac{
 	.logo-right {
 	  margin-top: 1em;
 	}
-	.logo-right ul.nav1 li {
-	  padding-left: 6.6em;
-	}
+
 	.buy-now {
 	  width: 62%;
 	}
@@ -3725,9 +3675,6 @@ ul.social-slide li i.mac{
 	.logo-right {
 	  margin-top: 0.2em;
 	  margin-left:0;
-	}
-	.logo-right ul.nav1 li {
-	  padding-left: 3.6em;
 	}
 	.banner3,.banner2 {
 	  height: 100px;

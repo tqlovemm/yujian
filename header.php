@@ -14,6 +14,8 @@
     <!-- //js -->
     <!-- for-mobile-apps -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+
     <meta name="format-detection" content="telephone=yes" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="keywords" content="文化传媒 广告公司 活动公司 活动策划 活动执行" />
@@ -28,6 +30,26 @@
         @media (max-width: 768px) {
 
             .tec-logo{ width: 45px;}
+            .logo-right ul{height: 100%;}
+            .logo-right ul li a{font-size: 38px;color: black;font-weight: bold;}
+            .logo-right ul.nav1 li{padding-left: 25px;border-bottom: 1px solid #dfb315;    letter-spacing: -1px;}
+            #mobile_top_banner_sign {
+                display: block;
+                position: absolute;
+                top: 9px;
+                right: 6%;
+                width: 37px;
+                height: 37px;
+                border-radius: 19px;
+                background: #eaeaea;
+                z-index: 116;
+                -webkit-transition: all 0.3s cubic-bezier(0.215,0.610,0.355,1.000) 0.2s;
+                -moz-transition: all 0.3s cubic-bezier(0.215,0.610,0.355,1.000) 0.2s;
+                -ms-transition: all 0.3s cubic-bezier(0.215,0.610,0.355,1.000) 0.2s;
+                -o-transition: all 0.3s cubic-bezier(0.215,0.610,0.355,1.000) 0.2s;
+                transition: all 0.3s cubic-bezier(0.215,0.610,0.355,1.000) 0.2s;
+            }
+
         }
 
 
@@ -50,22 +72,35 @@
                    </button>
                 </span>
                 <ul class="nav1">
-                    <li <?php if($_SERVER['PHP_SELF']=='/index.php'){echo ' class="cap" ';}?> title="遇见首页"><a href="index.php" class="act hidden-xs hidden-sm">HOME</a><a href="index.php" class="act visible-sm visible-xs">遇见首页</a></li>
-                    <li <?php if($_SERVER['PHP_SELF']=='/about.php'){echo ' class="cap" ';}?> title="遇见文化是谁"><a href="about.php" class="act1 hidden-xs hidden-sm">ABOUT US</a><a href="about.php" class="act1 visible-sm visible-xs">关于遇见</a></li>
-                    <li <?php if($_SERVER['PHP_SELF']=='/services.php'){echo ' class="cap" ';}?> title="遇见能做什么"><a href="services.php" class="act2 hidden-xs hidden-sm">SERVICES</a><a href="services.php" class="act2 visible-sm visible-xs">遇见服务</a></li>
-                    <li <?php if($_SERVER['PHP_SELF']=='/case.php'){echo ' class="cap" ';}?> title="遇见做过什么"><a href="case.php" class="act3 hidden-xs hidden-sm">CASE</a><a href="case.php" class="act3 visible-sm visible-xs">遇见案例</a></li>
-                    <li <?php if($_SERVER['PHP_SELF']=='/contact.php'){echo ' class="cap" ';}?> title="联系遇见"><a href="contact.php" class="act5 hidden-xs hidden-sm">CONTACT US</a><a href="contact.php" class="act5 visible-sm visible-xs">联系遇见</a></li>
+                    <li class="visible-xs visible-sm" style="box-shadow: 0 0 0 2px #c39e12;font-size: 18px;font-weight: 600;">遇见文化传媒<div id="mobile_top_banner_sign" class="text-center"><i style="line-height:37px;" class="glyphicon glyphicon-remove"></i></div> </li>
+                    <li <?php if($_SERVER['PHP_SELF']=='/index.php'){echo ' class="cap" ';}?> title="遇见首页"><a href="index.php" class="act hidden-xs hidden-sm">HOME</a><a href="index.php" class=" visible-sm visible-xs">遇见首页</a></li>
+                    <li <?php if($_SERVER['PHP_SELF']=='/about.php'){echo ' class="cap" ';}?> title="遇见文化是谁"><a href="about.php" class="act1 hidden-xs hidden-sm">ABOUT US</a><a href="about.php" class=" visible-sm visible-xs">关于遇见</a></li>
+                    <li <?php if($_SERVER['PHP_SELF']=='/services.php'){echo ' class="cap" ';}?> title="遇见能做什么"><a href="services.php" class="act2 hidden-xs hidden-sm">SERVICES</a><a href="services.php" class=" visible-sm visible-xs">遇见服务</a></li>
+                    <li <?php if($_SERVER['PHP_SELF']=='/case.php'){echo ' class="cap" ';}?> title="遇见做过什么"><a href="case.php" class="act3 hidden-xs hidden-sm">CASE</a><a href="case.php" class=" visible-sm visible-xs">遇见案例</a></li>
+                    <li <?php if($_SERVER['PHP_SELF']=='/contact.php'){echo ' class="cap" ';}?> title="联系遇见"><a href="contact.php" class="act5 hidden-xs hidden-sm">CONTACT US</a><a href="contact.php" class=" visible-sm visible-xs">联系遇见</a></li>
+                    <li class="visible-xs visible-sm" style="border: none;padding-top:30px;padding-left: 50px;line-height:25px;">
+                        <strong>Tel：</strong>0512-62747413<br>
+                        <strong>HR Email：</strong>8495167@qq.com
+                    </li>
                 </ul>
             </div>
             <div class="clearfix"> </div>
 
             <!-- script for menu -->
             <script>
+                $('#mobile_top_banner_sign').click(function(){
+                    $('ul.nav1').slideUp();
+                    $("body").css('overflow','auto');
+                });
+
+
                 $( "span.menu" ).click(function() {
+                    $("body").css('overflow','hidden');
                     $( "ul.nav1" ).slideToggle( 300, function() {
                     });
                 });
             </script>
+
             <!-- //script for menu -->
         </div>
         <!-- //header -->
