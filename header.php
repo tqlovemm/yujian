@@ -67,7 +67,7 @@
 
 
         <ul class="list-inline contact-phone visible-sm visible-xs">
-            <li class="pull-left"><a href="tel://15851429071"><i class="glyphicon glyphicon-earphone"></i>   Phone</a></li>
+            <li class="pull-left"><a href="tel://051262747413"><i class="glyphicon glyphicon-earphone"></i>   Phone</a></li>
             <li class="pull-right"><a style="padding:15px 60px;" target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1607962445&site=qq&menu=yes">QQ</a></li>
         </ul>
 
