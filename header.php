@@ -31,8 +31,8 @@
 
             .tec-logo{ width: 45px;}
             .logo-right ul{height: 100%;}
-            .logo-right ul li a{font-size: 38px;color: black;font-weight: bold;}
-            .logo-right ul.nav1 li{padding-left: 25px;border-bottom: 1px solid #dfb315;    letter-spacing: -1px;}
+            .logo-right ul li a{font-size: 30px;color: black;font-weight: bold;}
+            .logo-right ul.nav1 li{padding:10px 0 10px 25px;border-bottom: 1px solid #dfb315;letter-spacing: -1px;}
             #mobile_top_banner_sign {
                 display: block;
                 position: absolute;
@@ -72,7 +72,7 @@
                    </button>
                 </span>
                 <ul class="nav1">
-                    <li class="visible-xs visible-sm" style="box-shadow: 0 0 0 2px #c39e12;font-size: 18px;font-weight: 600;">遇见文化传媒<div id="mobile_top_banner_sign" class="text-center"><i style="line-height:37px;" class="glyphicon glyphicon-remove"></i></div> </li>
+                    <li class="visible-xs visible-sm" style="box-shadow: 0 0 0 2px #c39e12;padding-bottom: 15px;padding-top: 15px;font-size: 18px;font-weight: 600;">遇见文化传媒<div id="mobile_top_banner_sign" class="text-center"><i style="line-height:37px;" class="glyphicon glyphicon-remove"></i></div> </li>
                     <li <?php if($_SERVER['PHP_SELF']=='/index.php'){echo ' class="cap" ';}?> title="遇见首页"><a href="index.php" class="act hidden-xs hidden-sm">HOME</a><a href="index.php" class=" visible-sm visible-xs">遇见首页</a></li>
                     <li <?php if($_SERVER['PHP_SELF']=='/about.php'){echo ' class="cap" ';}?> title="遇见文化是谁"><a href="about.php" class="act1 hidden-xs hidden-sm">ABOUT US</a><a href="about.php" class=" visible-sm visible-xs">关于遇见</a></li>
                     <li <?php if($_SERVER['PHP_SELF']=='/services.php'){echo ' class="cap" ';}?> title="遇见能做什么"><a href="services.php" class="act2 hidden-xs hidden-sm">SERVICES</a><a href="services.php" class=" visible-sm visible-xs">遇见服务</a></li>
@@ -92,7 +92,34 @@
                     $('ul.nav1').slideUp();
                     $("body").css('overflow','auto');
                 });
+                $(function(){
 
+                   if($(window).height()>480&&$(window).height()<=568){
+
+                       $('.logo-right ul.nav1 li').css('padding-top','15px');
+                       $('.logo-right ul.nav1 li').css('padding-bottom','15px');
+                       $('.logo-right ul li a').css('font-size','35px');
+
+                   }
+                    if($(window).height()>568&&$(window).height()<=627){
+
+                       $('.logo-right ul.nav1 li').css('padding-top','17px');
+                       $('.logo-right ul.nav1 li').css('padding-bottom','17px');
+                       $('.logo-right ul li a').css('font-size','38px');
+
+                   }
+                    if($(window).height()>627&&$(window).height()<=768){
+
+                       $('.logo-right ul.nav1 li').css('padding-top','20px');
+                       $('.logo-right ul.nav1 li').css('padding-bottom','20px');
+                       $('.logo-right ul li a').css('font-size','40px');
+                       $('.logo-right ul li').css('font-size','20px');
+
+                   }
+
+
+
+                }),
 
                 $( "span.menu" ).click(function() {
                     $("body").css('overflow','hidden');
