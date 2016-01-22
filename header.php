@@ -101,6 +101,7 @@
                        $('.logo-right ul.nav1 li').css('padding-top','13px');
                        $('.logo-right ul.nav1 li').css('padding-bottom','13px');
                        $('.logo-right ul li a').css('font-size','34px');
+                       $('#mobile_top_banner_sign ').css('top','9px');
 
                    }
                     if($(window).height()>568&&$(window).height()<=627){
@@ -116,6 +117,7 @@
                        $('.logo-right ul.nav1 li').css('padding-bottom','20px');
                        $('.logo-right ul li a').css('font-size','40px');
                        $('.logo-right ul li').css('font-size','20px');
+
 
                    }
 
