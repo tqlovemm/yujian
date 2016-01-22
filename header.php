@@ -91,6 +91,9 @@
                 $('#mobile_top_banner_sign').click(function(){
                     $('ul.nav1').slideUp();
                     $("body").css('overflow','auto');
+                    document.ontouchmove = function(e){
+                        e.preventDefault();
+                    }
                 });
                 $(function(){
 
