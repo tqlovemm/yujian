@@ -89,11 +89,9 @@
             <!-- script for menu -->
             <script>
                 $('#mobile_top_banner_sign').click(function(){
-                    $('ul.nav1').slideUp();
-                    $("body").css('overflow','auto');
-                    document.ontouchmove = function(e){
-                        e.preventDefault();
-                    }
+                    $('ul.nav1').slideUp(function(){
+                        $('body').off('touchmove');
+                    });
                 });
                 $(function(){
 
@@ -130,9 +128,11 @@
                 }),
 
                 $( "span.menu" ).click(function() {
-                    $("body").css('overflow','hidden');
-                    $( "ul.nav1" ).slideToggle( 300, function() {
+
+                    $('body').on('touchmove', function (event) {
+                        event.preventDefault();
                     });
+                    $( "ul.nav1" ).slideDown(300,function(){});
                 });
             </script>
 
