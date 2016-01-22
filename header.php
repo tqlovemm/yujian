@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>苏州遇见文化传媒(是苏州最具有创意的营销策划公司)</title>
+    <title>苏州遇见文化传媒-是苏州最具有创意的营销策划公司</title>
     <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
     <link rel="shortcut icon" href="./images/home/favicon.ico">
