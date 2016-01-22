@@ -15,7 +15,7 @@
     <!-- for-mobile-apps -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
-
+    <meta name="sogou_site_verification" content="kUNrgRGqLy"/>
     <meta name="format-detection" content="telephone=yes" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="keywords" content="广告公司 活动公司 活动策划 活动执行" />
