@@ -115,7 +115,15 @@
                        $('.logo-right ul li a').css('font-size','40px');
                        $('.logo-right ul li').css('font-size','20px');
 
-                   }
+                   }if($(window).height()>768px) {
+
+                        $('.logo-right ul.nav1 li').css('padding-top','10px');
+                        $('.logo-right ul.nav1 li').css('padding-bottom','10px');
+                        $('.logo-right ul li a').css('font-size','40px');
+                        $('.logo-right ul li').css('font-size','20px');
+
+
+                    }
 
 
 
