@@ -91,7 +91,7 @@
 
                 $(function(){
 
-                    if(document.body.clientHeight<=768||$(window).height()<=768) {
+                    if(window.screen.availHeight<=768) {
 
                         $('#mobile_top_banner_sign').click(function(){
                             $('ul.nav1').slideUp(function(){
@@ -134,7 +134,7 @@
                 }
 
 
-                }),
+                })
 
 
             </script>
