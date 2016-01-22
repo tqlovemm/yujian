@@ -88,14 +88,23 @@
 
             <!-- script for menu -->
             <script>
-                $('#mobile_top_banner_sign').click(function(){
-                    $('ul.nav1').slideUp(function(){
-                        $('body').off('touchmove');
-                    });
-                });
+
                 $(function(){
 
                     if(document.body.clientHeight<=768||$(window).height()<=768) {
+
+                        $('#mobile_top_banner_sign').click(function(){
+                            $('ul.nav1').slideUp(function(){
+                                $('body').off('touchmove');
+                            });
+                        });
+                        $( "span.menu" ).click(function() {
+
+                            $('body').on('touchmove', function (event) {
+                                event.preventDefault();
+                            });
+                            $( "ul.nav1" ).slideDown(300,function(){});
+                        });
 
                    if($(window).height()>480&&$(window).height()<=568){
 
@@ -127,13 +136,7 @@
 
                 }),
 
-                $( "span.menu" ).click(function() {
 
-                    $('body').on('touchmove', function (event) {
-                        event.preventDefault();
-                    });
-                    $( "ul.nav1" ).slideDown(300,function(){});
-                });
             </script>
 
             <!-- //script for menu -->
