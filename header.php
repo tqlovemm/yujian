@@ -30,12 +30,12 @@
         @media (max-width: 768px) {
 
             .tec-logo{ width: 45px;}
-            .logo-right ul{height: 120%;}
+            .logo-right ul{height: 100%;}
             .logo-right ul li a{font-size: 30px;color: black;font-weight: bold;}
             .logo-right ul.nav1 li{padding:10px 0 10px 25px;border-bottom: 1px solid #dfb315;letter-spacing: -1px;}
             #mobile_top_banner_sign {
                 display: block;
-                position: absolute;
+                position: fixed;
                 top: 12px;
                 right: 12%;
                 width: 37px;

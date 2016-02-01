@@ -2165,7 +2165,7 @@ ul.social-slide li i.mac{
 
 		}
 	.logo-right ul {
-		position: absolute;
+		position: fixed;
 		padding: 0;
 		margin: 0;
 		left: 0;
