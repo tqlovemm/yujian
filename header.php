@@ -30,7 +30,7 @@
         @media (max-width: 768px) {
 
             .tec-logo{ width: 45px;}
-            .logo-right ul{height: 100%;}
+            .logo-right ul{height: 120%;}
             .logo-right ul li a{font-size: 30px;color: black;font-weight: bold;}
             .logo-right ul.nav1 li{padding:10px 0 10px 25px;border-bottom: 1px solid #dfb315;letter-spacing: -1px;}
             #mobile_top_banner_sign {
@@ -77,7 +77,7 @@
                     <li <?php if($_SERVER['PHP_SELF']=='/about.php'){echo ' class="cap" ';}?> title="遇见文化是谁"><a href="about.php" class="act1 hidden-xs hidden-sm">ABOUT US</a><a href="about.php" class=" visible-sm visible-xs">关于遇见</a></li>
                     <li <?php if($_SERVER['PHP_SELF']=='/services.php'){echo ' class="cap" ';}?> title="遇见能做什么"><a href="services.php" class="act2 hidden-xs hidden-sm">SERVICES</a><a href="services.php" class=" visible-sm visible-xs">遇见服务</a></li>
                     <li <?php if($_SERVER['PHP_SELF']=='/case.php'){echo ' class="cap" ';}?> title="遇见做过什么"><a href="case.php" class="act3 hidden-xs hidden-sm">CASE</a><a href="case.php" class=" visible-sm visible-xs">遇见案例</a></li>
-                    <li <?php if($_SERVER['PHP_SELF']=='/contact.php'){echo ' class="cap" ';}?> title="联系遇见"><a href="contact.php" class="act5 hidden-xs hidden-sm">CONTACT US</a><a href="contact.php" class=" visible-sm visible-xs">联系遇见</a></li>
+                    <li <?php if($_SERVER['PHP_SELF']=='/contact.php'){echo ' class="cap" ';}?> title="联系我们"><a href="contact.php" class="act5 hidden-xs hidden-sm">CONTACT US</a><a href="contact.php" class=" visible-sm visible-xs">联系我们</a></li>
                     <li class="visible-xs visible-sm" style="border: none;padding-top:30px;padding-left: 50px;line-height:25px;">
                         <strong>Tel：</strong>0512-62747413<br>
                         <strong>HR Email：</strong>1607962445@qq.com
