@@ -32,6 +32,7 @@ padding:0;
 /*-- //psd --*/
 /*-- header --*/
 .header{
+	border-radius: 2px;
 	background:#fff;
 	border-bottom: 5px solid rgba(98, 98, 98, 0.7);
 	margin-bottom: 1em;
