@@ -50,8 +50,8 @@ include ('header.php');
 		</div>
 		<div class="col-md-4">
 			<h3>MAIL US<span style="color: orange;">邮件</span></h3>
-			<h4><i class="glyphicon glyphicon-envelope"></i>&nbsp;&nbsp;客服邮箱：8495167@qq.com</h4>
-			<h4>POST CODE:8495167@qq.com</h4>
+			<h4><i class="glyphicon glyphicon-envelope"></i>&nbsp;&nbsp;客服邮箱：1607962445@qq.com</h4>
+			<h4>POST CODE:1607962445@qq.com</h4>
 		</div>
 	</div>
 

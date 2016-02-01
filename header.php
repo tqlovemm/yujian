@@ -80,7 +80,7 @@
                     <li <?php if($_SERVER['PHP_SELF']=='/contact.php'){echo ' class="cap" ';}?> title="联系遇见"><a href="contact.php" class="act5 hidden-xs hidden-sm">CONTACT US</a><a href="contact.php" class=" visible-sm visible-xs">联系遇见</a></li>
                     <li class="visible-xs visible-sm" style="border: none;padding-top:30px;padding-left: 50px;line-height:25px;">
                         <strong>Tel：</strong>0512-62747413<br>
-                        <strong>HR Email：</strong>8495167@qq.com
+                        <strong>HR Email：</strong>1607962445@qq.com
                     </li>
                 </ul>
             </div>
