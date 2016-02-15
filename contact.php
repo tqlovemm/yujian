@@ -41,7 +41,7 @@ include ('header.php');
 		<div class="col-md-4">
 			<h3>LOCATION<span style="color: orange;">地址</span></h3>
 			<h4><i class="glyphicon glyphicon-map-marker"></i>&nbsp;&nbsp;江苏省苏州工业园区海尚壹品110栋B-3#706室</h4>
-			<h4>TIME SQUARE, Suzhou Industrial Park</h4>
+			<h4>Room 110 B-3#706 of Suzhou Industrial Park haishang</h4>
 		</div>
 		<div class="col-md-4">
 			<h3>CONTACT INFO<span style="color: orange;">电话</span></h3>
