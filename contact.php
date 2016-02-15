@@ -45,8 +45,8 @@ include ('header.php');
 		</div>
 		<div class="col-md-4">
 			<h3>CONTACT INFO<span style="color: orange;">电话</span></h3>
-			<h4><i class="glyphicon glyphicon-phone-alt"></i>&nbsp;&nbsp;业务咨询：0512-62747413</h4>
-			<h4>SERVICE HOTLINE:0512-62747413</h4>
+			<h4><i class="glyphicon glyphicon-phone-alt"></i>&nbsp;&nbsp;业务咨询：0512-62747413<br>[刘经理：18021245073]</h4>
+			<h4>SERVICE HOTLINE:0512-62747413<br>[TEL：18021245073]</h4>
 		</div>
 		<div class="col-md-4">
 			<h3>MAIL US<span style="color: orange;">邮件</span></h3>
