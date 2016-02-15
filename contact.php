@@ -40,7 +40,7 @@ include ('header.php');
 	<div class="row" style="margin: 20px 0 50px;">
 		<div class="col-md-4">
 			<h3>LOCATION<span style="color: orange;">地址</span></h3>
-			<h4><i class="glyphicon glyphicon-map-marker"></i>&nbsp;&nbsp;苏州工业园区时代广场</h4>
+			<h4><i class="glyphicon glyphicon-map-marker"></i>&nbsp;&nbsp;江苏省苏州工业园区海尚壹品110栋B-3#706室</h4>
 			<h4>TIME SQUARE, Suzhou Industrial Park</h4>
 		</div>
 		<div class="col-md-4">
