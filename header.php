@@ -59,7 +59,7 @@
 <body>
 <div id="top" class="hidden-sm hidden-xs"></div>
 <div class="psd">
-    <div class="container">
+    <div class="container" style="padding-left: 5px;padding-right: 5px;">
         <!-- header -->
         <div class="header">
             <div class="logo">
