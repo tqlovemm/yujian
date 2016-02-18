@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>苏州遇见文化传媒-是苏州最具有创意的营销策划公司</title>
+    <title>苏州遇见文化传媒-是苏州最具有创意的活动及营销策划公司</title>
     <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
     <link rel="shortcut icon" href="./images/home/favicon.ico">
@@ -19,7 +19,7 @@
     <meta name="format-detection" content="telephone=yes" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="keywords" content="广告公司 活动公司 活动策划 活动执行" />
-    <meta name="description" content="苏州遇见文化传媒，致力于为客户提供专业活动策划执行全方位服务。成功服务于房产、汽车、银行、服装、IT、通讯、时尚品牌等多个行业的品牌企业，服务范围遍布全国。" />
+    <meta name="description" content="苏州遇见文化传媒,联系热线:0512-62747413,我们致力于为客户提供专业营销策划、活动策划执行全方位服务。成功服务于房产、汽车、银行、服装、IT、通讯、时尚品牌等多个行业的品牌企业,服务范围遍布全国。" />
     <!-- start-smoth-scrolling -->
     <style>
         .contact-phone{width: 100%;height: 50px;background-color: white;border-radius: 15px;overflow: hidden;;text-align: center;line-height: 50px;margin-bottom: 0;margin-left: 0px;}
