@@ -58,7 +58,7 @@
     <div class="row" style="margin-top: 10px;">
         <div class="col-md-3 col-sm-6 col-xs-4 items">
             <img class="img-responsive center-block" src="./images/home-show/1.jpg">
-            <div class="bg" style="background: #fdcc05;"><a href="about.php" style="display:block; width:100%; height:100%;"></a></div>
+            <a href="about.php"><div class="bg" style="background: #fdcc05;"></div></a>
             <a class="i5">我们拥有</a>
             <a class="i6">经验丰富的策划执行团队</a>
         </div>
