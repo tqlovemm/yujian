@@ -48,7 +48,6 @@ include ('header.php');
 			</div>
 		</div>
 
-
 <!-- //banner -->
 <?php
 include ('footer.php');
