@@ -28,7 +28,7 @@ include ('header.php');
 			<div class="banner-bg" title="我们是谁"></div>
 			<div class="banner-text">
 			<h1><span style="color: orange;font-weight: bold;">About us</span>&nbsp;&nbsp;<span style="font-weight: normal;color: #717176">我们是谁</span></h1>
-			<h3>苏州遇见文化传媒有限公司会议团队是中国最具实力的会议服务团队，致力于打造会议策划第一品牌。</h3>
+			<h3>苏州遇见文化传媒有限公司致力于打造策划执行第一品牌。</h3>
 			<p class="text-left">遇见传媒，具有丰富的活动策划执行经验，理念是：只有专注，才有专业 。而遇见传媒也一直在坚持自己的理念：我们致力于活动策划执行！
 				遇见传媒所策划和推出的任何活动——从最初的邀请到现场管理，无一不是在为了客户公司形象的考虑。不论是策划新产品发布会、企业年会、答谢会，还是周年庆典或会议活动，
 				我们一直牢记：成功策划一个令人难忘的活动的关键就是细节。成功执行一个令人难忘的活动也是对细节的调控的把握。</p>
