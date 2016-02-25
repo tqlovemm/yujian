@@ -22,6 +22,8 @@
     <meta name="description" content="苏州遇见文化传媒,联系热线:0512-62747413,我们致力于为客户提供专业营销策划、活动策划执行全方位服务。成功服务于房产、汽车、银行、服装、IT、通讯、时尚品牌等多个行业的品牌企业,服务范围遍布全国。" />
     <!-- start-smoth-scrolling -->
     <style>
+        .friendly a{color:white;}
+        .friendly a:hover{color:orange;}
         .contact-phone{width: 100%;height: 50px;background-color: white;border-radius: 15px;overflow: hidden;;text-align: center;line-height: 50px;margin-bottom: 0;margin-left: 0px;}
         .contact-phone li{width: 49%;height: 100%;padding: 0;}
         .contact-phone li:hover{background-color: #F4A819;}
