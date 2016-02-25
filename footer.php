@@ -13,7 +13,7 @@
         </ul>
     </div>
     <div class="clearfix"> </div>
-
+    <hr>
     <div class="row">
         <ul class="list-unstyled list-inline text-center friendly">
             <li><span style="color:white;">友情链接：</span><a href="http://www.ffsjgzs.com/"><span style="color: white;">非凡视觉</span></a></li>
