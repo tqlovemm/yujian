@@ -75,11 +75,12 @@
                 </span>
                 <ul class="nav1">
                     <li class="visible-xs visible-sm" style="box-shadow: 0 0 0 2px #c39e12;padding-bottom: 20px;padding-top: 20px;font-size: 18px;font-weight: 600;">遇见文化传媒<div id="mobile_top_banner_sign" class="text-center"><i style="line-height:37px;" class="glyphicon glyphicon-remove"></i></div> </li>
-                    <li <?php if($_SERVER['PHP_SELF']=='/index.php'){echo ' class="cap" ';}?> title="遇见首页"><a href="index.php" class="act hidden-xs hidden-sm">HOME</a><a href="index.php" class=" visible-sm visible-xs">遇见首页</a></li>
-                    <li <?php if($_SERVER['PHP_SELF']=='/about.php'){echo ' class="cap" ';}?> title="遇见文化是谁"><a href="about.php" class="act1 hidden-xs hidden-sm">ABOUT US</a><a href="about.php" class=" visible-sm visible-xs">关于遇见</a></li>
-                    <li <?php if($_SERVER['PHP_SELF']=='/services.php'){echo ' class="cap" ';}?> title="遇见能做什么"><a href="services.php" class="act2 hidden-xs hidden-sm">SERVICES</a><a href="services.php" class=" visible-sm visible-xs">遇见服务</a></li>
-                    <li <?php if($_SERVER['PHP_SELF']=='/case.php'){echo ' class="cap" ';}?> title="遇见做过什么"><a href="case.php" class="act3 hidden-xs hidden-sm">CASE</a><a href="case.php" class=" visible-sm visible-xs">遇见案例</a></li>
-                    <li <?php if($_SERVER['PHP_SELF']=='/contact.php'){echo ' class="cap" ';}?> title="联系我们"><a href="contact.php" class="act5 hidden-xs hidden-sm">CONTACT US</a><a href="contact.php" class=" visible-sm visible-xs">联系我们</a></li>
+                    <li <?php if($_SERVER['PHP_SELF']=='/index.php'){echo ' class="cap" ';}?> title="首页"><a href="index.php" class="act hidden-xs hidden-sm">首页</a><a href="index.php" class=" visible-sm visible-xs">首页</a></li>
+                    <li <?php if($_SERVER['PHP_SELF']=='/services.php'){echo ' class="cap" ';}?> title="服务"><a href="services.php" class="act2 hidden-xs hidden-sm">遇见服务</a><a href="services.php" class=" visible-sm visible-xs">遇见服务</a></li>
+                    <li <?php if($_SERVER['PHP_SELF']=='/case.php'){echo ' class="cap" ';}?> title="案例"><a href="case.php" class="act3 hidden-xs hidden-sm">策划案例</a><a href="case.php" class=" visible-sm visible-xs">策划案例</a></li>
+                    <li <?php if($_SERVER['PHP_SELF']=='/about.php'){echo ' class="cap" ';}?> title="关于我们"><a href="about.php" class="act1 hidden-xs hidden-sm">关于我们</a><a href="about.php" class=" visible-sm visible-xs">关于遇见</a></li>
+
+                    <li <?php if($_SERVER['PHP_SELF']=='/contact.php'){echo ' class="cap" ';}?> title="联系我们"><a href="contact.php" class="act5 hidden-xs hidden-sm">联系我们</a><a href="contact.php" class=" visible-sm visible-xs">联系我们</a></li>
                     <li class="visible-xs visible-sm" style="border: none;padding-top:30px;padding-left: 50px;line-height:25px;">
                         <strong>Tel：</strong>0512-62747413<br>
                         <strong>HR Email：</strong>1607962445@qq.com
